@@ -1,5 +1,6 @@
 # Application Form
 
+
 ### Name -
 Full Name with initials.
 
@@ -19,4 +20,5 @@ Programming languages/ databases/ ....etc.
 having Diploma or Degree.
 
 ### Leadership -
+
 Leadership skills that you have.
