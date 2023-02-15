@@ -1,22 +1,24 @@
 # Application Form
 
-### Name :
+
+### Name -
 Full Name with initials.
 
-### Working Experiences :
+### Working Experiences -
 Brief description about the experiences that you got from your training period.
 
-### GitHub Link :
-Github profile Link
+### GitHub Link -
+Github profile Link.
 
-### Projects :
+### Projects -
 Explain the projects that you done in your academic life.
 
-### Skills :
+### Skills -
 Programming languages/ databases/ ....etc.
 
-### Education :
+### Education -
 having Diploma or Degree.
 
-### Leadership :
+### Leadership -
+
 Leadership skills that you have.
